@@ -1,4 +1,4 @@
-# Programming lab 1
+# Programming С++ lab 2
 ***
 ### Requirements
 For compiling that project you have to have that compilers and software:
